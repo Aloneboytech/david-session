@@ -58,7 +58,7 @@ router.get('/', async (req, res) => {
 
                let GIFTED_MD_TEXT = `
 ┏━━━━━━━━━━━━━━
-┃SUIJINA MD SESSION IS 
+┃ALONE MD SESSION IS 
 ┃SUCCESSFULLY
 ┃CONNECTED 🙋🎉
 ┗━━━━━━━━━━━━━━━
